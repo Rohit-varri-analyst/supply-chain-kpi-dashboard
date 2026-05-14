@@ -28,3 +28,4 @@ An Excel-based Supply Chain KPI Dashboard tracking:
 - Procurement cost ₹49.7L against budget ₹52.1L
 - Budget variance of -4.61% shows cost efficiency
 - Defect rate maintained at 3.86%
+<img width="1824" height="647" alt="KPI DASHBOARD IMAGE ROHIT" src="https://github.com/user-attachments/assets/e0f3a5c2-4c6e-4c70-aed8-59441084ba75" />
